@@ -1,0 +1,13 @@
+{
+  "name": "@itsignature/its-video-player-sdk",
+  "version": "3.0.9",
+  "description": "Enterprise AES-256 Encrypted HTML5 Video Player SDK",
+  "main": "dist/its-video-player.min.js",
+  "style": "dist/its-video-player.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git@github-itsignature:itsignaturepvtltd/ITS_Js_Web_Player_SDK.git"
+  },
+  "author": "ITSignature Pvt Ltd",
+  "license": "Proprietary"
+}
